@@ -1,27 +1,19 @@
-<h1 align="center">🔥 Heyyyy! I'm Sondos</h1>
+### HI , I'AM SOUNDOUS ###
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=%F0%9F%92%BB+Currently+learning+Frontend...;%F0%9F%9A%80+Aiming+to+become+a+Fullstack+Developer;%F0%9F%92%96+Passionate+about+design+and+development!" alt="Typing SVG" /> 
-</p>
+("https://github.com/user-attachments/assets/7f4a320e-a8e1-475b-a9f8-b3c63082d7ce")
 
----
+### skills : 
 
-## About Me 🤔
-- 📚 I'm currently learning **Frontend development**
-- 🎨 I love building clean and responsive UIs
-- 🚀 My goal is to become a **Fullstack Developer**
-- 💡 Always open to learning and collaboration
-- ✅️ **ui review**
+('https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp')
+('https://p7.hiclipart.com/preview/185/866/361/html-web-design-scalable-vector-graphics-world-wide-web-markup-language-html5-icon-hd.jpg')
+('https://p1.hiclipart.com/preview/28/249/258/javascript-logo-web-application-scripting-language-web-development-web-banner-content-management-system-yellow-line-png-clipart.jpg')
+('https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png')
+('https://p1.hiclipart.com/preview/678/218/574/logo-logo-git-line-cheat-sheet-signage-cheating-mug-png-clipart.jpg')
+('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJvu0wx3DcRTh3u_Vfm4FDa4hyC18FS6wFTQ&s')
 
----
+### almost : 
+react.js 
+saas
 
-## 🧰 Technologies I'm Learning
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-
----
-
-## 📫 Contact Me 👇🏻
+## contact : 
 sondos23cv@gmail.com 
