@@ -4,7 +4,7 @@
 
 ### skills : 
 
-![HTML]('<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/acf83326-36a2-4317-81f3-42a53d93b112" />')
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/acf83326-36a2-4317-81f3-42a53d93b112" />
 ![CSS]('https://p7.hiclipart.com/preview/185/866/361/html-web-design-scalable-vector-graphics-world-wide-web-markup-language-html5-icon-hd.jpg')
 ![JAVA SCRIPT]('https://p1.hiclipart.com/preview/28/249/258/javascript-logo-web-application-scripting-language-web-development-web-banner-content-management-system-yellow-line-png-clipart.jpg')
 ![BOOTSTRAP]('https://toppng.com/uploads/preview/bootstrap-featured-image-bootstrap-3-logo-11563293130teouf93qpu.png')
