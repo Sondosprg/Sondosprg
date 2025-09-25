@@ -1,6 +1,6 @@
 ### HI , I'AM SOUNDOUS ###
 
-![FRONT END DEV]("https://github.com/user-attachments/assets/7f4a320e-a8e1-475b-a9f8-b3c63082d7ce")
+![FRONT END DEV]
 
 ### skills : 
 HTML / CSS / JAVA SCRIPT / BOOTSTRAP / GIT / GITHUB
