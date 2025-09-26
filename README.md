@@ -1,5 +1,7 @@
 ![Animated](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
+![Front End Gold Animation](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)
+
 ### HI , I'AM SOUNDOUS 
 ---
 
