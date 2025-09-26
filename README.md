@@ -4,10 +4,9 @@
 ***FRONT END DEV ⭐️***
 ===
 ### skills :
-``` html
-<html></html>
-HTML / CSS / JAVA SCRIPT / BOOTSTRAP / GIT / GITHUB
-```
+
+> HTML / CSS / JAVA SCRIPT / BOOTSTRAP / GIT / GITHUB
+
 ==========================================
 ### almost : 
 react.js / saas
