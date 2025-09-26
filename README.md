@@ -1,4 +1,4 @@
-![Front End Dev Fire](https://link-to-your-fire-gif.gif)
+![Front End text](https://www.flamingtext.com/logo/Design-3D-Text?text=Front+End+Dev)
 
 ### HI , I'AM SOUNDOUS 
 ---
