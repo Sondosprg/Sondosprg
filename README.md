@@ -7,7 +7,7 @@
 ===
 ### skills :
 
-> HTML / CSS / JAVA SCRIPT / BOOTSTRAP / GIT / GITHUB
+> HTML / CSS / JAVA SCRIPT / BOOTSTRAP / GIT / GITHUB / python
 >
 
 ### almost : 
