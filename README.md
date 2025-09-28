@@ -13,6 +13,20 @@
 ### almost : 
 react.js / saas
 
+===
+back end :
+===
+> Django
+> sql
+> REST api
+===
+additional:
+===
+>basis uml
+> ui / ux
+
+
+
 ## contact : 
 sondos23cv@gmail.com 
 
