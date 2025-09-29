@@ -13,16 +13,15 @@
 ### almost : 
 react.js / saas
 
-===
 back end :
 ===
-> Django
-> sql
+> Django /
+> sql /
 > REST api
 
 additional:
 ===
->basis uml
+>basis uml /
 > ui / ux
 
 
