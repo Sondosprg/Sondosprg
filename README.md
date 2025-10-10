@@ -10,6 +10,7 @@ I'm a passionate front-end developer who loves creating modern, responsive, and 
 
 **Front-End:**  
 > Prompt Engineering
+---
 > HTML / CSS / JavaScript / Bootstrap / Git / GitHub / Python  
 
 **Currently Learning:**  
