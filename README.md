@@ -1,32 +1,31 @@
+## 🔥 Hi, I'm Sondous 🔥
 
+### ⭐ Front-End Developer
 
-## 🔥 HI , I'AM SOUNDOUS 🔥
+I'm a passionate front-end developer who loves creating modern, responsive, and user-friendly web applications.
+
 ---
 
-***FRONT END DEV ⭐️***
-===
-### skills :
+### 💻 Skills
 
-> HTML / CSS / JAVA SCRIPT / BOOTSTRAP / GIT / GITHUB / python
->
+**Front-End:**  
+> HTML / CSS / JavaScript / Bootstrap / Git / GitHub / Python  
 
-### almost : 
-react.js / saas
+**Currently Learning:**  
+> React.js / Sass  
 
-back end :
-===
-> Django /
-> sql /
-> REST api
+**Back-End:**  
+> Django / SQL / REST API  
 
-additional:
-===
->basis uml /
-> ui / ux
+**Additional:**  
+> UML (basics) / UI & UX Design  
 
+---
 
+### 📫 Contact
 
-## contact : 
-sondos23cv@gmail.com 
+📧 **sondos23cv@gmail.com**
 
+---
 
+✨ *"Code. Design. Create. Repeat."*
