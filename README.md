@@ -2,7 +2,8 @@
 🔥 Hi, I'm Sondous 🔥<br>⭐ Front-End Developer<br>I'm a passionate front-end developer who loves creating modern, responsive, and user-friendly web applications
 
 
-![Diamonds Sparkling](https://media1.tenor.com/m/lgVez_DFTOYAAAAC/diamonds-diamond.gif)
+<img src="https://media1.tenor.com/m/lgVez_DFTOYAAAAC/diamonds-diamond.gif" width="100%" alt="Diamonds Sparkling">
+
 
 
 ## 🌐 Socials:
