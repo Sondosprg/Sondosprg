@@ -2,7 +2,8 @@
 🔥 Hi, I'm Sondous 🔥<br>⭐ Front-End Developer<br>I'm a passionate front-end developer who loves creating modern, responsive, and user-friendly web applications
 
 
-[!(https://tenor.com/view/diamonds-diamond-sparkling-gem-gif-12316966)]
+![Diamonds Sparkling](https://media1.tenor.com/m/lgVez_DFTOYAAAAC/diamonds-diamond.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/so.logic03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sondos23cv@gmail.com) 
