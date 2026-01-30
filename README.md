@@ -3,7 +3,7 @@
  ---
 Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves creating modern, responsive, and user-friendly web applications🐦‍🔥
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sondosprg&label=Profile%20views&color=#0B3D91&style=for-the-badge" alt="Sondosprg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sondosprg&label=Profile%20views&color=blue&style=for-the-badge" alt="Sondosprg" /> </p>
 
 ![Diamonds Sparkling](https://media1.tenor.com/m/lgVez_DFTOYAAAAC/diamonds-diamond.gif)
 
