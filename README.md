@@ -18,12 +18,6 @@ Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves crea
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-
-
-
-<img src="https://media1.tenor.com/m/_Xkv817iu1cAAAAd/lets-talk-call-me.gif" width="20%" height="140px" alt="Let's Talk">
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/so.logic03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sondos23cv@gmail.com) 
 
 
