@@ -1,11 +1,9 @@
 
- # Hi, I'm < SOUNDOUS > 💪🔥
+ # Hi, I'm < SOUNDOUS > 
  ---
 Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves creating modern, responsive, and user-friendly web applications🐦‍🔥
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sondosprg&label=Profile%20views&color=blue&style=for-the-badge" alt="Sondosprg" /> </p>
-
-![Diamonds Sparkling](https://media1.tenor.com/m/lgVez_DFTOYAAAAC/diamonds-diamond.gif)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -27,8 +25,7 @@ Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves crea
 ![](https://nirzak-streak-stats.vercel.app/?user=sondosPrg&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosPrg&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=sondosPrg&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <img src="https://media1.tenor.com/m/_Xkv817iu1cAAAAd/lets-talk-call-me.gif" width="20%" height="140px" alt="Let's Talk">
