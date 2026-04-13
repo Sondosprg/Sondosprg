@@ -3,8 +3,6 @@
  ---
 Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves creating modern, responsive, and user-friendly web applications🐦‍🔥
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sondosprg&label=Profile%20views&color=blue&style=for-the-badge" alt="Sondosprg" /> </p>
-
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
