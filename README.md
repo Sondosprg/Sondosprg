@@ -20,11 +20,6 @@ Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves crea
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
-##  📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sondosPrg&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sondosPrg&theme=great-gatsby&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sondosPrg&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 
 
