@@ -21,5 +21,6 @@ Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves crea
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/so.logic03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sondos23cv@gmail.com) 
 
 
-![Views](https://hits.seeyoufarm.org/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_USERNAME%2FYOUR_REPO&count_bg=%237928CA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+![Visitors](https://komarev.com/ghpvc/?username=Sondosprg&color=green&style=for-the-badge)
+
 
