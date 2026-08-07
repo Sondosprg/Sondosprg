@@ -18,7 +18,7 @@ Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves crea
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## contact
-(https://instagram.com/https://www.instagram.com/so.logic03/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sondos23cv@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sondos23cv@gmail.com) 
 
 
 ![Visitors](https://komarev.com/ghpvc/?username=Sondosprg&color=green&style=for-the-badge)
