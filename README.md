@@ -17,6 +17,8 @@ Front-End Developer 🎇 <br>I'm a passionate front-end developer who loves crea
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23127B9E.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### your opinion about my projects => [https://forms.gle/MHST6q8mviHoMeEs9]
+
 ## contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sondos23cv@gmail.com) 
 
