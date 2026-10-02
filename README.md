@@ -6,6 +6,8 @@
 
 I'm a passionate front-end developer who loves creating **modern, responsive, and user-friendly web applications** 🐦‍🔥
 
+<img src="https://www.gitskins.com/api/section/hero?username=sondosprg&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F204563853%3Fu%3D3c03c3e270e1415ce7afe4b058217bdd56fa582a%26v%3D4" alt="sondosprg hero visual" />
+
 ## 💻 Tech Stack
 
 ### 🎨 Front-End
