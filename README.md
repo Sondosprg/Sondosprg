@@ -10,7 +10,7 @@
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sondos23cv@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:sondosch640@gmail.com)
 
 ---
 
